@@ -11,13 +11,21 @@ CYAN='\e[36m'
 WHITE='\e[37m'
 NC='\e[0m'
 echo""
-echo -e "${RED}  _     _         ______ _    _ _______ ______   _____  ______  _____        ______   "
-echo " | |   | |  /\   / _____) |  / |_______|_____ \ / ___ \|  ___ \(_____)  /\  |  ___ \  "
-echo " | |__ | | /  \ | /     | | / / _       _____) ) |   | | |   | |  _    /  \ | |   | | "
-echo " |  __)| |/ /\ \| |     | |< < | |     (_____ (| |   | | |   | | | |  / /\ \| |   | | "
-echo " | |   | | |__| | \_____| | \ \| |_____      | | |___| | |   | |_| |_| |__| | |   | | "
-echo " |_|   |_|______|\______)_|  \_)\______)     |_|\_____/|_|   |_(_____)______|_|   |_| "
-echo -e "${RED}                                                      ~ Tools for Hacking by Mr. SAGE ${NC}"
+echo -e "${RED}  (                                 _
+echo "     )                               /=>
+echo "    (  +____________________/\/\___ / /|
+echo "   .''. _____________'._____      / /|/\
+echo "  : () :              :\ ----\|    \ )
+echo "   '..'_Cancer_baba________.'0|----|      \
+echo "              0_0/____/        \
+echo "                 |----    /----\
+echo "                || -\\ --|      \
+echo "                ||   || ||\      \
+echo "                 \\____// '|      \
+echo "   Bang! Bang!           .'/       |
+echo "                        .:/        |
+echo "                        :/_________|
+echo -e "${RED}                 ~ Tools for Hacking by Cancer_baba india's top funded military hacker ${NC}"
 echo ""
 echo -e "${YELLOW} Twitter.com/thehackingsage | Instagram.com/thehackingsage | Github.com/thehackingsage ${NC} "
 echo ""
@@ -51,7 +59,7 @@ fi
 
 echo "[✔] Installing ...";
 echo "";
-git clone https://github.com/thehackingsage/hacktronian.git "$INSTALL_DIR";
+git clone https://github.com/cancer01/hacktronian.git "$INSTALL_DIR";
 echo "#!/bin/bash
 python $INSTALL_DIR/hacktronian.py" '${1+"$@"}' > hacktronian;
 chmod +x hacktronian;
