@@ -87,7 +87,7 @@ def logo():
                (_(||||||||||||)___________/   ""                |
                   `----------' Canxer_baba[ ))"-,               |
                              Bang bang ""    `,  _,--....___    |
-                                               `/           """"
+                                               `/           """
 
 
 hacktronianlogo = """\033[0m
@@ -97,7 +97,7 @@ hacktronianlogo = """\033[0m
                (_(||||||||||||)___________/   ""                |
                   `----------' Canxer_baba[ ))"-,               |
                              Bang bang ""    `,  _,--....___    |
-                                               `/           """"
+                                               `/           """
  \033[91m"""
 def menu():
     print (hacktronianlogo + """\033[1m
