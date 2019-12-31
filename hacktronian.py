@@ -98,7 +98,7 @@ hacktronianlogo = """\033[0m
                   `----------' Canxer_baba[ ))"-,               |
                              Bang bang ""    `,  _,--....___    |
                                                `/           """"
- \033[91m"""
+ \033[0m"
 def menu():
     print (hacktronianlogo + """\033[1m
  [!] This Tool Must Run As ROOT [!] https://linktr.ee/thehackingsage
